@@ -1,0 +1,18 @@
+{
+  "name": "handlebars-compiler",
+  "version": "0.0.0",
+  "description": "Precompile your handlebars templates into a single .js file",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "handlebars",
+    "compiler"
+  ],
+  "author": "Ivo Vermeer",
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^4.0.5"
+  }
+}
