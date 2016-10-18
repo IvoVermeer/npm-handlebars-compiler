@@ -1,10 +1,10 @@
 {
   "name": "handlebars-compiler",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Precompile your handlebars templates into a single .js file",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha ./test/tests.js"
   },
   "keywords": [
     "handlebars",
@@ -12,6 +12,10 @@
   ],
   "author": "Ivo Vermeer",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IvoVermeer/npm-handlebars-compiler"
+  },
   "dependencies": {
     "handlebars": "^4.0.5"
   }
