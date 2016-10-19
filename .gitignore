@@ -41,3 +41,7 @@ jspm_packages
 
 # Tern project file
 .tern-project
+
+# tests
+test/public/js/templates.js
+test/templates/testExtraTemplate.html
