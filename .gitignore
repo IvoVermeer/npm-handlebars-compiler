@@ -44,4 +44,5 @@ jspm_packages
 
 # tests
 test/public/js/templates.js
+!test/public/js/
 test/templates/testExtraTemplate.html
